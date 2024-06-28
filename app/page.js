@@ -54,7 +54,7 @@ export default function Home() {
           src="/pex.jpg"
         ></img>
              <img
-          className={`mt-3 top-0 left-0 w-full h-full object-cover `}
+          className={`mt-3 top-0 v left-0 w-full h-full object-cover `}
           src="/lex.jpg"
         ></img>
       </div>
